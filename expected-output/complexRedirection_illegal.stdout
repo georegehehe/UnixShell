@@ -1,0 +1,20 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_illegal_rd_1 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_illegal_rd_1
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>./afolderdoesnotexist/complexRedirection_illegal_rd_2
+An error has occurred
+>
+An error has occurred
+> 
+An error has occurred
+	>
+An error has occurred
+ > 
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > > complexRedirection_illegal_rd_3
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_illegal_rd_4 >
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 complexRedirection_illegal_rd_5 >
+An error has occurred
+exit

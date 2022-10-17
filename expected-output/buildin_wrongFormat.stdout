@@ -1,0 +1,81 @@
+cd>
+An error has occurred
+cd >
+An error has occurred
+cd >buildin_wrongFormat_rd_1
+An error has occurred
+cd>buildin_wrongFormat_rd_2
+An error has occurred
+cd > buildin_wrongFormat_rd_3
+An error has occurred
+cd> buildin_wrongFormat_rd_4
+An error has occurred
+cd / /
+An error has occurred
+cd /afs / /afs /afs /afs
+An error has occurred
+cd / >buildin_wrongFormat_rd_5 
+An error has occurred
+cd />buildin_wrongFormat_rd_6 
+An error has occurred
+cd / > buildin_wrongFormat_rd_7 
+An error has occurred
+cd /> buildin_wrongFormat_rd_8 
+An error has occurred
+pwd argv1
+An error has occurred
+pwd argv2 argv3
+An error has occurred
+pwd argv4 pwd argv5
+An error has occurred
+pwd>
+An error has occurred
+pwd >
+An error has occurred
+pwd >buildin_wrongFormat_rd_9 
+An error has occurred
+pwd>buildin_wrongFormat_rd_10 
+An error has occurred
+pwd > buildin_wrongFormat_rd_11 
+An error has occurred
+pwd> buildin_wrongFormat_rd_12 
+An error has occurred
+pwd / /
+An error has occurred
+pwd / >buildin_wrongFormat_rd_13 
+An error has occurred
+pwd />buildin_wrongFormat_rd_14 
+An error has occurred
+pwd / > buildin_wrongFormat_rd_15 
+An error has occurred
+pwd /> buildin_wrongFormat_rd_16 
+An error has occurred
+exit argv1
+An error has occurred
+exit argv2 argv3
+An error has occurred
+exit argv4 exit argv5
+An error has occurred
+exit>
+An error has occurred
+exit >
+An error has occurred
+exit >buildin_wrongFormat_rd_17 
+An error has occurred
+exit>buildin_wrongFormat_rd_18 
+An error has occurred
+exit > buildin_wrongFormat_rd_19
+An error has occurred
+exit> buildin_wrongFormat_rd_20
+An error has occurred
+exit / /
+An error has occurred
+exit / >buildin_wrongFormat_rd_21
+An error has occurred
+exit />buildin_wrongFormat_rd_22
+An error has occurred
+exit / > buildin_wrongFormat_rd_23
+An error has occurred
+exit /> buildin_wrongFormat_rd_24
+An error has occurred
+exit

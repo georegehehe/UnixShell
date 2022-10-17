@@ -1,0 +1,26 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>complexRedirection_rd_1; ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >complexRedirection_rd_2
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1> complexRedirection_rd_3;  ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_rd_4
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>complexRedirection_rd_5 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >complexRedirection_rd_6 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1> complexRedirection_rd_7 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_rd_8 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_rd_9 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_rd_9
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>./afolderdoesnotexist/complexRedirection_rd_10
+An error has occurred
+>
+An error has occurred
+> 
+An error has occurred
+	>
+An error has occurred
+ > 
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > > complexRedirection_rd_11
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_rd_12 >
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 complexRedirection_rd_13 >
+An error has occurred
+exit

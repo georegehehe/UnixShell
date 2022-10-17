@@ -1,0 +1,52 @@
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+pwd
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+ls
+attr
+coll
+comm
+datatype
+debugger
+errhan
+group
+info
+init
+io
+Makefile.mk
+misc
+pt2pt
+rma
+romio
+spawn
+timer
+topo
+ls -l
+total 60
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 attr
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 coll
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 comm
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 datatype
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 debugger
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 errhan
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 group
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 info
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 init
+drwxr-sr-x  2 zar1 15400   76 Feb 20  2014 io
+-rw-r--r--  1 zar1 15400 2322 Feb 20  2014 Makefile.mk
+drwxr-sr-x  2 zar1 15400  145 Feb 20  2014 misc
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 pt2pt
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 rma
+drwxr-sr-x 11 zar1 15400 4096 Feb 20  2014 romio
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 spawn
+drwxr-sr-x  2 zar1 15400  137 Feb 20  2014 timer
+drwxr-sr-x  2 zar1 15400 4096 Feb 20  2014 topo
+cd ./
+pwd
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+cd timer
+pwd
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi/timer
+cd ../
+pwd
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+exit

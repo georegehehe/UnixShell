@@ -1,0 +1,3 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/maint >+ advancedRedirection_concat_rd_1 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >+ advancedRedirection_concat_rd_1
+exit

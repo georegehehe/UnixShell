@@ -1,0 +1,16 @@
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/
+pwd;ls;pwd;ls -l;
+ pwd; ls ; pwd; ls -l ;
+pwd;ls ;pwd ;  ls   -l  ;
+ pwd	;	ls ; pwd	;	ls -l ; 
+pwd;ls;pwd;ls -l
+ pwd; ls ; pwd; ls -l 
+pwd;ls ;pwd ;  ls   -l 
+ pwd	;	ls ; pwd	;	ls -l 
+;; 	;;
+ ;	; ;	;
+pwd;ls;;;pwd; ; ;ls -l
+ pwd; ls ; ; ;;; pwd; ls -l 
+pwd argv1 argv2; ls
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/; cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/afolderdoesnotexist;  ls ; pwd argv3; pwd
+exit

@@ -1,0 +1,7 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>complexRedirection_format_rd_1; ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >complexRedirection_format_rd_2
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1> complexRedirection_format_rd_3;  ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_format_rd_4
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>complexRedirection_format_rd_5 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >complexRedirection_format_rd_6 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1> complexRedirection_format_rd_7 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 > complexRedirection_format_rd_8 
+exit

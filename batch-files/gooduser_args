@@ -1,0 +1,11 @@
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+pwd
+ls
+ls -l
+cd ./
+pwd
+cd timer
+pwd
+cd ../
+pwd
+exit

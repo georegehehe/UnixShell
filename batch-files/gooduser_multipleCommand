@@ -1,0 +1,10 @@
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/src/mpi
+cd ../../../; pwd; cd /
+pwd
+cd ../
+pwd
+  
+	
+
+cal 10 2008; pwd; pwd
+exit

@@ -1,0 +1,6 @@
+cd /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1
+cd iamafolderdoesnotexist
+An error has occurred
+pwd
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1
+exit

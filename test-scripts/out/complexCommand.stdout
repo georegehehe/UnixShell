@@ -1,0 +1,207 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+aclocal.m4
+autogen.sh
+CHANGES
+confdb
+configure
+configure.ac
+contrib
+COPYRIGHT
+doc
+examples
+maint
+Makefile.am
+Makefile.in
+man
+mpich.def
+mpich-doxygen.in
+mpi.def
+README
+README.envvar
+RELEASE_NOTES
+src
+subsys_include.m4
+test
+www
+
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+aclocal.m4
+autogen.sh
+CHANGES
+confdb
+configure
+configure.ac
+contrib
+COPYRIGHT
+doc
+examples
+maint
+Makefile.am
+Makefile.in
+man
+mpich.def
+mpich-doxygen.in
+mpi.def
+README
+README.envvar
+RELEASE_NOTES
+src
+subsys_include.m4
+test
+www
+ls -l /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1  /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+total 4916
+-rw-r--r--  1 zar1 15400   47362 Feb 20  2014 aclocal.m4
+-rw-r--r--  1 zar1 15400   28526 Feb 20  2014 autogen.sh
+-rw-r--r--  1 zar1 15400   63098 Feb 20  2014 CHANGES
+drwxr-sr-x  2 zar1 15400    4096 Feb 20  2014 confdb
+-rw-r--r--  1 zar1 15400 1798912 Feb 20  2014 configure
+-rw-r--r--  1 zar1 15400  231733 Feb 20  2014 configure.ac
+drwxr-sr-x  3 zar1 15400      42 Feb 20  2014 contrib
+-rw-r--r--  1 zar1 15400    1439 Feb 20  2014 COPYRIGHT
+drwxr-sr-x 10 zar1 15400    4096 Feb 20  2014 doc
+drwxr-sr-x  6 zar1 15400    4096 Feb 20  2014 examples
+drwxr-sr-x  4 zar1 15400    4096 Feb 20  2014 maint
+-rw-r--r--  1 zar1 15400   17088 Feb 20  2014 Makefile.am
+-rw-r--r--  1 zar1 15400 2638605 Feb 20  2014 Makefile.in
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 man
+-rw-r--r--  1 zar1 15400   21620 Feb 20  2014 mpich.def
+-rw-r--r--  1 zar1 15400   51981 Feb 20  2014 mpich-doxygen.in
+-rw-r--r--  1 zar1 15400   15827 Feb 20  2014 mpi.def
+-rw-r--r--  1 zar1 15400   33162 Feb 20  2014 README
+-rw-r--r--  1 zar1 15400   21919 Feb 20  2014 README.envvar
+-rw-r--r--  1 zar1 15400    2346 Feb 20  2014 RELEASE_NOTES
+drwxr-sr-x 18 zar1 15400    4096 Feb 20  2014 src
+-rw-r--r--  1 zar1 15400    2452 Feb 20  2014 subsys_include.m4
+drwxr-sr-x  9 zar1 15400    4096 Feb 20  2014 test
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 www
+
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+total 4916
+-rw-r--r--  1 zar1 15400   47362 Feb 20  2014 aclocal.m4
+-rw-r--r--  1 zar1 15400   28526 Feb 20  2014 autogen.sh
+-rw-r--r--  1 zar1 15400   63098 Feb 20  2014 CHANGES
+drwxr-sr-x  2 zar1 15400    4096 Feb 20  2014 confdb
+-rw-r--r--  1 zar1 15400 1798912 Feb 20  2014 configure
+-rw-r--r--  1 zar1 15400  231733 Feb 20  2014 configure.ac
+drwxr-sr-x  3 zar1 15400      42 Feb 20  2014 contrib
+-rw-r--r--  1 zar1 15400    1439 Feb 20  2014 COPYRIGHT
+drwxr-sr-x 10 zar1 15400    4096 Feb 20  2014 doc
+drwxr-sr-x  6 zar1 15400    4096 Feb 20  2014 examples
+drwxr-sr-x  4 zar1 15400    4096 Feb 20  2014 maint
+-rw-r--r--  1 zar1 15400   17088 Feb 20  2014 Makefile.am
+-rw-r--r--  1 zar1 15400 2638605 Feb 20  2014 Makefile.in
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 man
+-rw-r--r--  1 zar1 15400   21620 Feb 20  2014 mpich.def
+-rw-r--r--  1 zar1 15400   51981 Feb 20  2014 mpich-doxygen.in
+-rw-r--r--  1 zar1 15400   15827 Feb 20  2014 mpi.def
+-rw-r--r--  1 zar1 15400   33162 Feb 20  2014 README
+-rw-r--r--  1 zar1 15400   21919 Feb 20  2014 README.envvar
+-rw-r--r--  1 zar1 15400    2346 Feb 20  2014 RELEASE_NOTES
+drwxr-sr-x 18 zar1 15400    4096 Feb 20  2014 src
+-rw-r--r--  1 zar1 15400    2452 Feb 20  2014 subsys_include.m4
+drwxr-sr-x  9 zar1 15400    4096 Feb 20  2014 test
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 www
+
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+total 4916
+-rw-r--r--  1 zar1 15400   47362 Feb 20  2014 aclocal.m4
+-rw-r--r--  1 zar1 15400   28526 Feb 20  2014 autogen.sh
+-rw-r--r--  1 zar1 15400   63098 Feb 20  2014 CHANGES
+drwxr-sr-x  2 zar1 15400    4096 Feb 20  2014 confdb
+-rw-r--r--  1 zar1 15400 1798912 Feb 20  2014 configure
+-rw-r--r--  1 zar1 15400  231733 Feb 20  2014 configure.ac
+drwxr-sr-x  3 zar1 15400      42 Feb 20  2014 contrib
+-rw-r--r--  1 zar1 15400    1439 Feb 20  2014 COPYRIGHT
+drwxr-sr-x 10 zar1 15400    4096 Feb 20  2014 doc
+drwxr-sr-x  6 zar1 15400    4096 Feb 20  2014 examples
+drwxr-sr-x  4 zar1 15400    4096 Feb 20  2014 maint
+-rw-r--r--  1 zar1 15400   17088 Feb 20  2014 Makefile.am
+-rw-r--r--  1 zar1 15400 2638605 Feb 20  2014 Makefile.in
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 man
+-rw-r--r--  1 zar1 15400   21620 Feb 20  2014 mpich.def
+-rw-r--r--  1 zar1 15400   51981 Feb 20  2014 mpich-doxygen.in
+-rw-r--r--  1 zar1 15400   15827 Feb 20  2014 mpi.def
+-rw-r--r--  1 zar1 15400   33162 Feb 20  2014 README
+-rw-r--r--  1 zar1 15400   21919 Feb 20  2014 README.envvar
+-rw-r--r--  1 zar1 15400    2346 Feb 20  2014 RELEASE_NOTES
+drwxr-sr-x 18 zar1 15400    4096 Feb 20  2014 src
+-rw-r--r--  1 zar1 15400    2452 Feb 20  2014 subsys_include.m4
+drwxr-sr-x  9 zar1 15400    4096 Feb 20  2014 test
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 www
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1  -l  /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+total 4916
+-rw-r--r--  1 zar1 15400   47362 Feb 20  2014 aclocal.m4
+-rw-r--r--  1 zar1 15400   28526 Feb 20  2014 autogen.sh
+-rw-r--r--  1 zar1 15400   63098 Feb 20  2014 CHANGES
+drwxr-sr-x  2 zar1 15400    4096 Feb 20  2014 confdb
+-rw-r--r--  1 zar1 15400 1798912 Feb 20  2014 configure
+-rw-r--r--  1 zar1 15400  231733 Feb 20  2014 configure.ac
+drwxr-sr-x  3 zar1 15400      42 Feb 20  2014 contrib
+-rw-r--r--  1 zar1 15400    1439 Feb 20  2014 COPYRIGHT
+drwxr-sr-x 10 zar1 15400    4096 Feb 20  2014 doc
+drwxr-sr-x  6 zar1 15400    4096 Feb 20  2014 examples
+drwxr-sr-x  4 zar1 15400    4096 Feb 20  2014 maint
+-rw-r--r--  1 zar1 15400   17088 Feb 20  2014 Makefile.am
+-rw-r--r--  1 zar1 15400 2638605 Feb 20  2014 Makefile.in
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 man
+-rw-r--r--  1 zar1 15400   21620 Feb 20  2014 mpich.def
+-rw-r--r--  1 zar1 15400   51981 Feb 20  2014 mpich-doxygen.in
+-rw-r--r--  1 zar1 15400   15827 Feb 20  2014 mpi.def
+-rw-r--r--  1 zar1 15400   33162 Feb 20  2014 README
+-rw-r--r--  1 zar1 15400   21919 Feb 20  2014 README.envvar
+-rw-r--r--  1 zar1 15400    2346 Feb 20  2014 RELEASE_NOTES
+drwxr-sr-x 18 zar1 15400    4096 Feb 20  2014 src
+-rw-r--r--  1 zar1 15400    2452 Feb 20  2014 subsys_include.m4
+drwxr-sr-x  9 zar1 15400    4096 Feb 20  2014 test
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 www
+
+/stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1:
+total 4916
+-rw-r--r--  1 zar1 15400   47362 Feb 20  2014 aclocal.m4
+-rw-r--r--  1 zar1 15400   28526 Feb 20  2014 autogen.sh
+-rw-r--r--  1 zar1 15400   63098 Feb 20  2014 CHANGES
+drwxr-sr-x  2 zar1 15400    4096 Feb 20  2014 confdb
+-rw-r--r--  1 zar1 15400 1798912 Feb 20  2014 configure
+-rw-r--r--  1 zar1 15400  231733 Feb 20  2014 configure.ac
+drwxr-sr-x  3 zar1 15400      42 Feb 20  2014 contrib
+-rw-r--r--  1 zar1 15400    1439 Feb 20  2014 COPYRIGHT
+drwxr-sr-x 10 zar1 15400    4096 Feb 20  2014 doc
+drwxr-sr-x  6 zar1 15400    4096 Feb 20  2014 examples
+drwxr-sr-x  4 zar1 15400    4096 Feb 20  2014 maint
+-rw-r--r--  1 zar1 15400   17088 Feb 20  2014 Makefile.am
+-rw-r--r--  1 zar1 15400 2638605 Feb 20  2014 Makefile.in
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 man
+-rw-r--r--  1 zar1 15400   21620 Feb 20  2014 mpich.def
+-rw-r--r--  1 zar1 15400   51981 Feb 20  2014 mpich-doxygen.in
+-rw-r--r--  1 zar1 15400   15827 Feb 20  2014 mpi.def
+-rw-r--r--  1 zar1 15400   33162 Feb 20  2014 README
+-rw-r--r--  1 zar1 15400   21919 Feb 20  2014 README.envvar
+-rw-r--r--  1 zar1 15400    2346 Feb 20  2014 RELEASE_NOTES
+drwxr-sr-x 18 zar1 15400    4096 Feb 20  2014 src
+-rw-r--r--  1 zar1 15400    2452 Feb 20  2014 subsys_include.m4
+drwxr-sr-x  9 zar1 15400    4096 Feb 20  2014 test
+drwxr-sr-x  4 zar1 15400      40 Feb 20  2014 www
+		cal   10  2008
+    October 2008      
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31     
+                      
+ cal 10 2008
+    October 2008      
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31     
+                      
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/afolderdoesnotexist
+exit

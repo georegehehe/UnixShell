@@ -1,0 +1,41 @@
+cd>
+cd >
+cd >buildin_wrongFormat_rd_1
+cd>buildin_wrongFormat_rd_2
+cd > buildin_wrongFormat_rd_3
+cd> buildin_wrongFormat_rd_4
+cd / /
+cd /afs / /afs /afs /afs
+cd / >buildin_wrongFormat_rd_5 
+cd />buildin_wrongFormat_rd_6 
+cd / > buildin_wrongFormat_rd_7 
+cd /> buildin_wrongFormat_rd_8 
+pwd argv1
+pwd argv2 argv3
+pwd argv4 pwd argv5
+pwd>
+pwd >
+pwd >buildin_wrongFormat_rd_9 
+pwd>buildin_wrongFormat_rd_10 
+pwd > buildin_wrongFormat_rd_11 
+pwd> buildin_wrongFormat_rd_12 
+pwd / /
+pwd / >buildin_wrongFormat_rd_13 
+pwd />buildin_wrongFormat_rd_14 
+pwd / > buildin_wrongFormat_rd_15 
+pwd /> buildin_wrongFormat_rd_16 
+exit argv1
+exit argv2 argv3
+exit argv4 exit argv5
+exit>
+exit >
+exit >buildin_wrongFormat_rd_17 
+exit>buildin_wrongFormat_rd_18 
+exit > buildin_wrongFormat_rd_19
+exit> buildin_wrongFormat_rd_20
+exit / /
+exit / >buildin_wrongFormat_rd_21
+exit />buildin_wrongFormat_rd_22
+exit / > buildin_wrongFormat_rd_23
+exit /> buildin_wrongFormat_rd_24
+exit
